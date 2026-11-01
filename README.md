@@ -66,13 +66,3 @@ CodeAlpha_Calculator/
 ├── calculator.c
 └── README.md
 ```
-
-## Author
-
-**Your Name**
-CodeAlpha C Programming Intern
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
-
-## Acknowledgements
-
-Thanks to [CodeAlpha](https://www.codealpha.tech) for the internship opportunity.
